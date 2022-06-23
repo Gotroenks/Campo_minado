@@ -1,4 +1,4 @@
-package Campo_minado.controller;
+package Campo_minado_interface.controller;
 
 import java.io.Serial;
 
